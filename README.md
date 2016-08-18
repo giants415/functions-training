@@ -1,3 +1,10 @@
+# **Andrew's Deliverable**
+
+### Original Repo: https://github.com/sf-wdi-31/functions-training.git
+
+**Reflection**: I struggled with this assignment more than I expected. While I was able to think of the solutions in psuedo-code, moving from my mental representation to actual, written code was difficult. I relied on referencing the solutions.js file for a few of the questions I couldn't work through, but I plan to ask my peers and instructors/TAs for help going forward rather than trying to solve all of my confusion on my own. I will spend time this weekend reviewing this assignment after working through the most difficult functions with an instructor/TA. 
+
+
 # Training - Javascript Functions
 
 Fork this repository to your GitHub account, then clone your GitHub copy onto your computer. Write the functions assigned below in the file `functions.js`. Use snippets to run and observe the results of your code.
